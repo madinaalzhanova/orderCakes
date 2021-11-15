@@ -24,6 +24,14 @@
   color: white;
   border: '1px solid #F8F8F8';
 }
+.page-name{
+  font-size: 30;
+  font-weight: bold;
+  color: #13152D;
+  text-align: left;
+  margin-left: 200px;
+  margin-top: 50px;
+}
 
 .App-link {
   color: #61dafb;
